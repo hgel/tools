@@ -1,0 +1,29 @@
+常用工具：
+draw.io ---> 画流程图
+freeplane ---> 画思维导图
+graphviz ---> 画图
+Typora ---> 笔记
+
+autohotkey ---> 设置windows快捷键
+tinytask ---> 重复性脚本工作
+cmd工具 ---> windows terminal       水平分屏 alt + shift + - (减号) 垂直分屏 alt + shift + + (加号)
+
+notepad++ ---> 文本分析
+TextAnalysisTool.NET ---> 文本分析
+uedit64 ---> 文本编辑分析
+Beyond Compare 4 ---> 代码比较
+
+source insight ---> 看代码工具
+codeblocks ---> ide
+Visual Studio Code ---> ide
+Android Studio ---> ide
+
+MobaXterm ---> 终端工具
+
+FScapture ---> 截图工作
+zoomit ---> 涂鸦工具
+simple sticky notes ---> 便签工具
+
+audition ---> 音频编辑和分析
+Audacity ---> 音频编辑和分析
+VLC media player ---> 媒体播放
