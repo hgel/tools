@@ -1,7 +1,7 @@
 常用工具：
 draw.io ---> 画流程图
 freeplane ---> 画思维导图
-graphviz ---> 画图
+graphviz ---> 画类图
 Typora ---> 笔记
 
 autohotkey ---> 设置windows快捷键
