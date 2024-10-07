@@ -32,3 +32,6 @@ simple sticky notes ---> 便签工具
 audition ---> 音频编辑和分析
 Audacity ---> 音频编辑和分析
 VLC media player ---> 媒体播放
+
+Aiseesoft PDF Splitter ---> 免费pdf分割器，使用时要注意，如没有pdf权限会不成功。
+PDFsam Basic ---> 免费pdf分割器
